@@ -1,0 +1,6 @@
+openpyxl
+pandas
+polars
+fastexcel
+requests
+XlsxWriter
